@@ -1,0 +1,15 @@
+body{
+background-color:black;
+}
+ 
+.card{
+  background-color:white;
+  border:red 5px solid;
+  padding:30px;
+  margin:30px;
+  font-style:italic;
+  font-size:20px;
+  }
+h2{
+text-align:center;
+}
